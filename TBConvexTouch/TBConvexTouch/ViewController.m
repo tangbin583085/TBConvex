@@ -3,7 +3,7 @@
 //  TBConvexTouch
 //
 //  Created by hanchuangkeji on 2017/9/4.
-//  Copyright © 2017年 hanchuangkeji. All rights reserved.
+//  Copyright © 2017年 hanchuangkeji. All rights reserved.2
 //
 
 #import "ViewController.h"
